@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 6306665a1eea9804391c8c1c16b590b8
-timeCreated: 1524680331
+guid: 5c8aacee022fa0442b699dea13a48045
+timeCreated: 1524379730
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -85,7 +85,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -96,14 +96,14 @@ ModelImporter:
       name: Default Take
       takeName: Default Take
       firstFrame: 0
-      lastFrame: 249
+      lastFrame: 123
       wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -184,7 +184,7 @@ ModelImporter:
       name: ArmatureAction
       takeName: ArmatureAction
       firstFrame: -1
-      lastFrame: 238
+      lastFrame: 123
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -309,7 +309,7 @@ ModelImporter:
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
