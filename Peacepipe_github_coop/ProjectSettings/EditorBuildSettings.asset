@@ -22,3 +22,5 @@ EditorBuildSettings:
       \u0441\u0446\u0435\u043D\u0430).unity"
   - enabled: 0
     path: Assets/Standard Assets/object/Interiors_wigwam.unity
+  - enabled: 1
+    path: Assets/Standard Assets/object/Main_Mountain_Third_scene.unity
