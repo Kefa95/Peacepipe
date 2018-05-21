@@ -112,7 +112,7 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       tonemapping:
-        tonemapper: 2
+        tonemapper: 0
         neutralBlackIn: 0.025
         neutralWhiteIn: 9.3
         neutralBlackOut: 0
@@ -134,9 +134,9 @@ MonoBehaviour:
       colorWheels:
         mode: 1
         log:
-          slope: {r: 1, g: 0.93851817, b: 0.8896684, a: 0.35172603}
-          power: {r: 1, g: 0.95676506, b: 0.87154263, a: -0.09961948}
-          offset: {r: 0.9794925, g: 1, b: 0.7645097, a: -0.113074206}
+          slope: {r: 1, g: 0.6599285, b: 0.51626915, a: 0.08249526}
+          power: {r: 0.66092813, g: 0.77907324, b: 1, a: -0.09961948}
+          offset: {r: 1, g: 0.9744709, b: 0.5848875, a: -0.113074206}
         linear:
           lift: {r: 1, g: 1, b: 1, a: 0}
           gamma: {r: 1, g: 1, b: 1, a: 0}
