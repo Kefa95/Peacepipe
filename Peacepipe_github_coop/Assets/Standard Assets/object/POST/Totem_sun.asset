@@ -113,34 +113,34 @@ MonoBehaviour:
     m_Settings:
       tonemapping:
         tonemapper: 0
-        neutralBlackIn: 0.025
-        neutralWhiteIn: 9.3
+        neutralBlackIn: 0.02
+        neutralWhiteIn: 10
         neutralBlackOut: 0
         neutralWhiteOut: 10
-        neutralWhiteLevel: 5.7
-        neutralWhiteClip: 7.72
+        neutralWhiteLevel: 5.3
+        neutralWhiteClip: 10
       basic:
         postExposure: 0
-        temperature: 12
-        tint: 0
+        temperature: 21.1
+        tint: 11.6
         hueShift: 0
-        saturation: 0.92
-        contrast: 1
+        saturation: 1.041
+        contrast: 0.962
       channelMixer:
-        red: {x: 0.81, y: 0, z: 0}
-        green: {x: 0, y: 0.79, z: -0.03}
-        blue: {x: 0, y: 0, z: 0.69}
-        currentEditingChannel: 2
+        red: {x: 1, y: -0.03, z: 0}
+        green: {x: 0, y: 1, z: 0}
+        blue: {x: 0, y: 0, z: 1}
+        currentEditingChannel: 0
       colorWheels:
         mode: 1
         log:
-          slope: {r: 1, g: 0.6599285, b: 0.51626915, a: 0.08249526}
-          power: {r: 0.66092813, g: 0.77907324, b: 1, a: -0.09961948}
-          offset: {r: 1, g: 0.9744709, b: 0.5848875, a: -0.113074206}
+          slope: {r: 1, g: 0.8771041, b: 0.82259744, a: 0}
+          power: {r: 1, g: 0.9468048, b: 0.663055, a: 0}
+          offset: {r: 1, g: 1, b: 1, a: 0}
         linear:
-          lift: {r: 1, g: 1, b: 1, a: 0}
-          gamma: {r: 1, g: 1, b: 1, a: 0}
-          gain: {r: 1, g: 1, b: 1, a: 0}
+          lift: {r: 0, g: 0, b: 0, a: 0}
+          gamma: {r: 0, g: 0, b: 0, a: 0}
+          gain: {r: 0, g: 0, b: 0, a: 0}
       curves:
         master:
           curve:
@@ -149,14 +149,14 @@ MonoBehaviour:
             - serializedVersion: 2
               time: 0
               value: 0
-              inSlope: 0
+              inSlope: 1
               outSlope: 1
               tangentMode: 0
             - serializedVersion: 2
               time: 1
               value: 1
-              inSlope: 0.6413742
-              outSlope: 0.6413742
+              inSlope: 1
+              outSlope: 1
               tangentMode: 0
             m_PreInfinity: 2
             m_PostInfinity: 2
@@ -182,7 +182,7 @@ MonoBehaviour:
               tangentMode: 0
             m_PreInfinity: 2
             m_PostInfinity: 2
-            m_RotationOrder: 0
+            m_RotationOrder: 4
           m_Loop: 0
           m_ZeroValue: 0
           m_Range: 1
@@ -272,7 +272,7 @@ MonoBehaviour:
           m_Range: 1
         e_CurrentEditingCurve: 0
         e_CurveY: 1
-        e_CurveR: 1
+        e_CurveR: 0
         e_CurveG: 0
         e_CurveB: 0
   userLut:
