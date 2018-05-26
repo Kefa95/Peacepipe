@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: Assets/Standard Assets/object/Poselenie.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Standard Assets/object/Pole bitvi main.unity
   - enabled: 0
     path: Assets/Standard Assets/object/qs.unity
@@ -26,3 +26,5 @@ EditorBuildSettings:
     path: Assets/Standard Assets/object/Main_Mountain_Third_scene.unity
   - enabled: 0
     path: Assets/Standard Assets/object/Finalscene.unity
+  - enabled: 1
+    path: Assets/Standard Assets/object/Dark_forest scen2.unity
