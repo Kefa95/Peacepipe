@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 557d5a5dbc16ba640ac370b106ebe9a0
-timeCreated: 1527322008
+guid: 81e61edfe2a2331458fc5cf154943d25
+timeCreated: 1527420154
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -33,9 +33,9 @@ ModelImporter:
     100050: Bone_024
     100052: Bone_026
     100054: Bone_027
-    100056: //RootNode
-    100058: Cube
-    100060: Cylinder
+    100056: Cube
+    100058: Cylinder
+    100060: //RootNode
     400000: Armature
     400002: Bone
     400004: Bone_001
@@ -64,15 +64,15 @@ ModelImporter:
     400050: Bone_024
     400052: Bone_026
     400054: Bone_027
-    400056: //RootNode
-    400058: Cube
-    400060: Cylinder
+    400056: Cube
+    400058: Cylinder
+    400060: //RootNode
     2300000: Cylinder
     3300000: Cylinder
     4300000: Cube
     4300002: Cylinder
     7400000: Default Take
-    7400002: ArmatureAction_001
+    7400002: ArmatureAction
     9500000: //RootNode
     11100000: //RootNode
     13700000: Cube
@@ -101,7 +101,7 @@ ModelImporter:
       name: Default Take
       takeName: Default Take
       firstFrame: -1
-      lastFrame: 137
+      lastFrame: 128
       wrapMode: 2
       orientationOffsetY: 0
       level: 0
@@ -188,10 +188,10 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: ArmatureAction_001
-      takeName: ArmatureAction_001
+      name: ArmatureAction
+      takeName: ArmatureAction
       firstFrame: -1
-      lastFrame: 137
+      lastFrame: 128
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
